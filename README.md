@@ -1,0 +1,1 @@
+This project demonstrates a simple Cart system implemented in a UIKit-based iOS app. Users can browse products, add them to a cart, view cart items, adjust item quantities, and perform checkout. Below is an overview of the key features and implementation details.
